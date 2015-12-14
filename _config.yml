@@ -2,6 +2,7 @@ name: CDZtesting
 favicon: null
 layout_spectrum: 0.16090078186243773
 typography_spectrum: 0.09682127297855914
+title: CDZtesting
 cta:
   domain: null
   bucket: null
